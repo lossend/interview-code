@@ -1,4 +1,4 @@
-package com.lossend.interview.code._0221;
+package com.lossend.interview.code.leetcode.middle._0221;
 
 public class Solution {
     public int maximalSquare(char[][] matrix) {
