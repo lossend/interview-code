@@ -1,5 +1,6 @@
 package com.lossend.interview.code.leetcode.middle._0039._0130;
 
+import com.lossend.interview.code.leetcode.middle._0130.Solution;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

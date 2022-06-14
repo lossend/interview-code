@@ -1,4 +1,4 @@
-package com.lossend.interview.code.leetcode.middle._0039._0130;
+package com.lossend.interview.code.leetcode.middle._0130;
 
 import java.util.Arrays;
 
