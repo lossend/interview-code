@@ -1,4 +1,4 @@
-package com.lossend.interview.code.leetcode.middle.__79;
+package com.lossend.interview.code.leetcode.middle._0079;
 
 public class Solution {
     public boolean exist(char[][] board, String word) {

@@ -1,4 +1,4 @@
-package com.lossend.interview.code.leetcode.middle.__79;
+package com.lossend.interview.code.leetcode.middle._0079;
 
 import org.junit.jupiter.api.Test;
 
